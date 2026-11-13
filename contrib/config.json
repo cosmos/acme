@@ -1,0 +1,34 @@
+{
+  "validator_wallet": {
+    "name": "val",
+    "address": "acme1als0q05t0sy9dxz0eqtxsyhp4qasr6pfq0ky79",
+    "mnemonic": "label rotate have logic false obvious waste expire velvet special motor source rug motion face wolf picnic another myth senior admit debate addict globe"
+  },
+  "admin_wallets": [
+    {
+      "name": "denom_admin",
+      "address": "acme1yhtdz8zgl6drdq2f4ae2478e9t8maf8scwt304",
+      "mnemonic": "pond wise tray margin half choice hint urban depart siege wise since ready poet merry muscle final welcome hammer more frame knife creek crawl"
+    },
+    {
+      "name": "dev1",
+      "address": "acme16h6hzrk4u7n4mqxkpgwqjrpgycyjylfc7vp2l2",
+      "mnemonic": "head tree capable flock hard dry veteran ripple depend slender august hope nephew solve tooth pear hurt axis kite cave attack fatal phrase picnic"
+    },
+    {
+      "name": "dev2",
+      "address": "acme1qjqj7fv0gdm53t3xmycj6xymg0twtsfjgzur0f",
+      "mnemonic": "extra gaze scan reject lonely ceiling nasty main ready wear current order quit hat penalty suffer test glance empower always cinnamon solve meat melody"
+    },
+    {
+      "name": "dev3",
+      "address": "acme12t0j4xvjyhc5a0kduvywwz0z9te0nkggdkq80x",
+      "mnemonic": "bus walk toast prefer dragon media gloom pupil staff observe always wall tired blood orient topic dwarf all also decrease lizard color artwork fantasy"
+    },
+    {
+      "name": "dev4",
+      "address": "acme1ut2m6srsl8ygeq4ncmw0jjf90ffvunpxylemye",
+      "mnemonic": "cliff cement thumb improve burden sock breeze clever cause night album dial border decline solar friend phone trial breeze clay august fragile jump brass"
+    }
+  ]
+}

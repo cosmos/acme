@@ -1,0 +1,13 @@
+release/
+.idea/
+.vscode/
+.DS_Store
+*.dot
+*.log
+*.ign
+
+build/
+vendor/
+scripts/node-data/
+
+.claude/

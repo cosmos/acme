@@ -7,9 +7,9 @@ import (
 
 	"github.com/cosmos/acme/x/ift/types"
 	"github.com/cosmos/gogoproto/proto"
-	solanapb "github.com/cosmos/solidity-ibc-eureka/packages/go-proto/solana"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/gagliardetto/solana-go"
+	solanapb "github.com/lfdt-ibc/ibc-contracts/packages/go-proto/solana"
 	gmptypes "github.com/lfdt-ibc/ibc-go/v11/modules/apps/27-gmp/types"
 	"github.com/stretchr/testify/require"
 

@@ -6,9 +6,9 @@ import (
 	"encoding/binary"
 
 	"github.com/cosmos/gogoproto/proto"
-	solanapb "github.com/cosmos/solidity-ibc-eureka/packages/go-proto/solana"
 	bin "github.com/gagliardetto/binary"
 	"github.com/gagliardetto/solana-go"
+	solanapb "github.com/lfdt-ibc/ibc-contracts/packages/go-proto/solana"
 
 	"cosmossdk.io/math"
 

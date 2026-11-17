@@ -31,6 +31,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.30.0
+	github.com/lfdt-ibc/ibc-contracts/packages/go-proto v0.0.0-20261116115934-a22cf01a7a01
 	github.com/lfdt-ibc/ibc-go/modules/light-clients/08-wasm/v11 v11.0.0-20261110125909-dedba2bf40b0
 	github.com/lfdt-ibc/ibc-go/v11 v11.2.1-rc1.0.20261110125909-dedba2bf40b0
 	github.com/spf13/cast v1.10.0
@@ -203,8 +204,6 @@ require (
 	github.com/cosmos/iavl v1.2.8 // indirect
 	github.com/cosmos/ics23/go v0.11.0 // indirect
 	github.com/cosmos/ledger-cosmos-go v1.0.0 // indirect
-	// TODO: target main after merge — pinned to mariuszzak/22-remove-payer-position-add-prefund-lamports (PR #962)
-	github.com/cosmos/solidity-ibc-eureka/packages/go-proto v0.0.0-20260403152650-2480eaf9d4a1
 	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/creachadair/atomicfile v0.3.8 // indirect
 	github.com/creachadair/tomledit v0.0.29 // indirect
